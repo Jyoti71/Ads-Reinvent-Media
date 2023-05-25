@@ -607,9 +607,9 @@ input:focus {
 }
 
 .navbar-logo img {
-    margin: 14px 0px;
+    /* margin: 14px 0px; */
     width: auto;
-    height: 40px;
+    /* height: 40px; */
 }
 
 .navbar-default .nav > li.active>a:hover,
