@@ -145,7 +145,7 @@ p {
     margin-top: 10px;
     font-size: 24px;
     font-weight: 600; 
-    color:#676464bf;
+    color:#fff;
 }
 
 #aboutus-sec .about-box {
@@ -301,6 +301,7 @@ p {
 
 #team {
     background-color: #376CC6;
+    color:#fff
 }
 
 .team-sec {
